@@ -13,8 +13,8 @@ Upload Screen Designs:
 Save the Figma screen designs.
 Upload the screen designs to the "Assignment_1" folder in the Git repository.
 
-- Upload Website Figma as a PDF. Also, the Figma link is here: https://www.figma.com/file/AIfg7s38q7utcNJpzZ5vnh/Prototype-of-AI-based-nutritional-planner?type=design&fuid=1331850673834342988
-
+- Upload Website Figma as a PDF. Also, the Figma link is here: https://www.figma.com/file/PpMp67IlJRoGAmfsT5O89k/Eco-Friendly-Product-Reviews-Reviews-and-ratings-for-environmentally-friendly-products.?type=design&node-id=0-1&mode=design&t=JHHGEaj7rh36PrVw-0
+- 
 Word File:
 Prepare a Word file documenting each step of Task 1.
 
